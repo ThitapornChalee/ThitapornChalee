@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [thitaporn.chal@ku.th](mailto:thitaporn.chal@ku.th)
 ![](https://komarev.com/ghpvc/?username=ThitapornChalee-github-username&color=green)
 <p align="center">
-  <img width="100" height="100" src="https://github.com/user-attachments/assets/23368d53-7a27-478d-b662-31d0df791cb1" />
+  <img width="300" height="300" src="https://github.com/user-attachments/assets/23368d53-7a27-478d-b662-31d0df791cb1" />
 </p>
 
 <p align="left">
